@@ -4,6 +4,7 @@
 * binary_tree_height - Helper function to calculate the height of a binary tree
 * @tree: pointer to the root node of the tree
 *
+*
 * Return: height of the tree, or 0 if tree is NULL
 */
 static size_t binary_tree_height(const binary_tree_t *tree)
